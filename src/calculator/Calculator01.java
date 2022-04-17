@@ -6,10 +6,10 @@ import static calculator.IsOperator03.isOperator;
 public class Calculator01 {
     public static void main(String[] args) {
 
-        System.out.println("enter two number to calculate them.");
+        System.out.println("Enter two number to calculate them.");
 
         double num1= isNumberr();
-        System.err.println("first number is : "+ num1);
+        System.err.println("First number is : "+ num1);
 
         double num2= isNumberr();
         System.err.println("second number is : "+ num2);

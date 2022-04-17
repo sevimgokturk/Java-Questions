@@ -12,12 +12,12 @@ public class IsNumber02 {
 
         do{
             try {
-                System.out.println("enter a number: ");
+                System.out.println("Enter a number: ");
                 num= scanner.next();
                 Double.parseDouble(num);
                 notWorking =false;
             }catch (NumberFormatException e){
-                System.out.println("it is not a number!");
+                System.out.println("It is not a number!");
 
             }
 
