@@ -1,12 +1,9 @@
 package calculator;
 
-import java.util.Scanner;
-
 import static calculator.IsNumber02.isNumberr;
 import static calculator.IsOperator03.isOperator;
 
 public class Calculator01 {
-
     public static void main(String[] args) {
 
         System.out.println("enter two number to calculate them.");

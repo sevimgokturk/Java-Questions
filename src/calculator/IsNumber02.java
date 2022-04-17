@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class IsNumber02 {
     static Scanner scanner=new Scanner(System.in);
-    static String num="";
+    public static String num="";
 
     public static double isNumberr(){
 
